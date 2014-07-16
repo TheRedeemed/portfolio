@@ -368,6 +368,7 @@ body {
 .contact{
     background-color: #104a41;
     margin-bottom: 25%;
+    padding:2%;
 }
 
 .project{
@@ -395,8 +396,4 @@ body {
 .projectNav i{
     padding-right:1%;
     text-align:left;
-}
-
-.contact{
-    padding:2%;
 }
